@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TSDMHp1Practica1BEM</string>
+    <string name="splash_title">Datos Personales</string>
+    <string name="input_name">Ingrese su nombre:</string>
+    <string name="input_age">Ingrese su edad:</string>
+    <string name="button_process">Procesar</string>
+    <string name="message_under_18">Vuelve cuando tengas 18</string>
+    <string name="select_state">Seleccione su estado:</string>
+    <string name="select_municipality">Seleccione su municipio:</string>
+    <string name="select_gender">Seleccione su género:</string>
+    <string name="button_submit">Enviar</string>
+    <string name="text_title">Selecciona tu información</string>
+    <string name="text_sex">¿Cuál es tu sexo?</string>
+    <string name="text_pets">¿Tienes mascotas?</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+    <string name="gender_prefer_not_to_say">Prefiero no decir</string>
+    <string name="pets_yes">Sí</string>
+    <string name="pets_no">No</string>
+    <string name="pets_prefer_not_to_say">Prefiero no decir</string>
+</resources>
